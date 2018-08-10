@@ -9,4 +9,6 @@ It can perform all basic mathematical operations, with built in advanced excepti
 <code>java -javac BasicCalc.java </code>
 <br>
 And then run the class file.
+<p>
 <strong>Note: </strong>While running the app, after each calculation press "C" to get clean result.
+</p>
