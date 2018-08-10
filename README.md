@@ -5,7 +5,7 @@ It can perform all basic mathematical operations, with built in advanced excepti
 
 <li>Just Clone the repository or download as ZIP.</li>
 <li>You can open in any JAVA IDE</li>
-<li>Or else compile in CMD (command prompt) using following command:</li><
+<li>Or else compile in CMD (command prompt) using following command:</li>
 <code>java -javac BasicCalc.java </code>
 <br>
 And then run the class file.
